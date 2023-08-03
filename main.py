@@ -1,5 +1,3 @@
-conda install torch
-
 # 必要なライブラリをインポートする
 import streamlit as st
 import torch
